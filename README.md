@@ -36,5 +36,5 @@ I keep weekly notes on what I tried, what broke and what I learned: [`learning-l
 ## Say hello
 
 - 📫 [Collinsorego5@gmail.com]
-- Looking for: [systems or backend internship / open-source mentorship / study partners] ← delete or edit
+- Looking for: [systems or backend internship / open-source mentorship / study partners]
 
